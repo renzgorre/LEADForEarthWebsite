@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local editor and assistant settings
+.claude/settings.local.json
+
+# internal LEAD documents and brand source files (kept outside the repo)
+/LEADForEarth Files/
+*.ai
